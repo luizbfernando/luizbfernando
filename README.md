@@ -5,7 +5,7 @@
 - 🎵🎵 Me chamo Luiz. Sou um amante da programação e um desenvolvedor apaixonado em aprender novas linguagens e tecnologias. Ultilizo o GitHub para compartilhar meus trabalhos e conhecimento. Pretendo adiquirir conhecimento e crescer profissionalmente na área da programação.
   <br>
   [![blog](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](https://criarmeulink.com.br/u/1722442068)
-  [![blog](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](luizbfernando.dev)
+  [![blog](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/luizbfernando.dev?igsh=MWFwOHR2b3Zld2E0cw==)
   [![blog](https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white)](https://api.whatsapp.com/send?phone=5544988341117&text=Ol%C3%A1,%20est%C3%A1%20dispon%C3%ADvel?)
 
 ##### Estudando...
