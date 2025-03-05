@@ -87,11 +87,11 @@ Me chamo Larissa Luiz Fernando, tenho 18 anos e sou natural do Paraná. Concluí
     align="left" 
     alt="java" 
     title="java"
-    width="30px" 
+    width="40px" 
     style="padding-right: 10px;" 
     src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/java/java-original.svg" 
 />
-<img src="file-type-cobol-icon-1024x876-gco153wj.png" alt="COBOL Logo" width="30px"/>
+<img src="file-type-cobol-icon-1024x876-gco153wj.png" alt="COBOL Logo" width="40px"/>
 
 
 
