@@ -2,7 +2,7 @@
 
 **`Desenvolvedor web - aspirante a cybersegurança`**
 
-Me chamo Larissa Luiz Fernando, tenho 18 anos e sou natural do Paraná. Concluí o ensino médio no CEEP CIANORTE, com o curso técnico em desenvolvimento de sistemas. Atualmente, estou cursando Análise e Desenvolvimento de Sistemas na UMFG - Cianorte. Sou apaixonado por tecnologia e procuro me desenvolver profissionalmente na área.
+Me chamo Luiz Fernando, tenho 18 anos e sou natural do Paraná. Concluí o ensino médio no CEEP CIANORTE, com o curso técnico em desenvolvimento de sistemas. Atualmente, estou cursando Análise e Desenvolvimento de Sistemas na UMFG - Cianorte. Sou apaixonado por tecnologia e procuro me desenvolver profissionalmente na área.
 
 <p align="left">
     <a href="https://github.com/Larissakich?tab=repositories&sort=stargazers">
